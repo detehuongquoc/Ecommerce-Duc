@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ecommerce-Duc/static/css/main.e535a505.chunk.css",
-    "main.js": "/Ecommerce-Duc/static/js/main.6a64d64f.chunk.js",
-    "main.js.map": "/Ecommerce-Duc/static/js/main.6a64d64f.chunk.js.map",
-    "runtime-main.js": "/Ecommerce-Duc/static/js/runtime-main.01ef35cc.js",
-    "runtime-main.js.map": "/Ecommerce-Duc/static/js/runtime-main.01ef35cc.js.map",
-    "static/css/2.5798c0fe.chunk.css": "/Ecommerce-Duc/static/css/2.5798c0fe.chunk.css",
-    "static/js/2.81da1aa6.chunk.js": "/Ecommerce-Duc/static/js/2.81da1aa6.chunk.js",
-    "static/js/2.81da1aa6.chunk.js.map": "/Ecommerce-Duc/static/js/2.81da1aa6.chunk.js.map",
-    "index.html": "/Ecommerce-Duc/index.html",
-    "static/css/2.5798c0fe.chunk.css.map": "/Ecommerce-Duc/static/css/2.5798c0fe.chunk.css.map",
-    "static/css/main.e535a505.chunk.css.map": "/Ecommerce-Duc/static/css/main.e535a505.chunk.css.map",
-    "static/js/2.81da1aa6.chunk.js.LICENSE.txt": "/Ecommerce-Duc/static/js/2.81da1aa6.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/Ecommerce-Duc/static/media/fontawesome-webfont.f691f37e.woff"
+    "main.css": "/static/css/main.e535a505.chunk.css",
+    "main.js": "/static/js/main.6a64d64f.chunk.js",
+    "main.js.map": "/static/js/main.6a64d64f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
+    "static/css/2.d7cdfa8d.chunk.css": "/static/css/2.d7cdfa8d.chunk.css",
+    "static/js/2.81da1aa6.chunk.js": "/static/js/2.81da1aa6.chunk.js",
+    "static/js/2.81da1aa6.chunk.js.map": "/static/js/2.81da1aa6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d7cdfa8d.chunk.css.map": "/static/css/2.d7cdfa8d.chunk.css.map",
+    "static/css/main.e535a505.chunk.css.map": "/static/css/main.e535a505.chunk.css.map",
+    "static/js/2.81da1aa6.chunk.js.LICENSE.txt": "/static/js/2.81da1aa6.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.01ef35cc.js",
-    "static/css/2.5798c0fe.chunk.css",
+    "static/js/runtime-main.11f320ca.js",
+    "static/css/2.d7cdfa8d.chunk.css",
     "static/js/2.81da1aa6.chunk.js",
     "static/css/main.e535a505.chunk.css",
     "static/js/main.6a64d64f.chunk.js"
